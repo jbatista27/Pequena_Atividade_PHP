@@ -1,0 +1,8 @@
+criar um formulario que recebera os caompos
+	nome do banco
+	usuario
+	senha 
+	endereço
+	Prefixo das tabelas
+
+Ao executar, o codigo deve conter 3 tabelas no banco selecionado, as tabelas devem ter ao menos um relacionamento ternario.
